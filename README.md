@@ -1,2 +1,2 @@
-# custom_dotplot
-Create a custom dotplot for comparing means and distributions when comparing group means
+# Create a custom dotplot
+This is one of my favorite plot types for presenting means and distributions when comparing group means. It has all the advantages of ‘violin plots’ but looks a little cleaner in my opinion. This script includes ggplot functions to customize most features in the plot. For an example see [Brady et al. (2019), pg. 4.](https://drive.google.com/file/d/1fT4uW75pWDZXjob_sABMyI_DXPLWalqr/view)
